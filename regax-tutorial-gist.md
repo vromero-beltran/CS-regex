@@ -1,4 +1,4 @@
-# CS-regex
+# Regular Expressions Email Tutorial
 
 Regular expressions are a powerful tool to match text. They are used in many programming languages and are also used in many text editors. This tutorial will help you learn the basics of regular expressions.
 
@@ -19,6 +19,7 @@ This tutorial is going to help understand the email regular expression, `/^([a-z
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+- [Author](#author)
 
 ## Regex Components
 <div align="center">
@@ -81,7 +82,7 @@ Look-ahead and look-behind are used to match a specific pattern only if it is fo
 ## Author
 
 <div align="center">
-    <p>This tutorial was created by</p>
+    <p>This Tutorial was created by</p>
     <a href="https://github.com/vromero-beltran">
     <img src="https://avatars.githubusercontent.com/vromero-beltran?=100" width="100px;" alt="Victor Romero-Beltran's Github Profile" style="border-radius: 50px"/>
     </a>
